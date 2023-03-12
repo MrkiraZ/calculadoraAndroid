@@ -1,4 +1,4 @@
-# Calculadora Android 🔢
+# Calculadora Simples 🔢
 
 ## Aula 11/03/2023
 ### 🗺️ Fatec Carapicuiba
